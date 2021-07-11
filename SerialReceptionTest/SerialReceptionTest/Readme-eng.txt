@@ -31,8 +31,8 @@
 - 18.04.4 LTS
 
 
-2. 측정
-- Every 2ms a device will send event data to a PC.
+2. Measurement
+- A device will send event data to a PC every 2ms.
   Parsing end time will be the received time on the PC.
   
 

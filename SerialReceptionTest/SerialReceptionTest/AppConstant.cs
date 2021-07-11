@@ -12,6 +12,6 @@ namespace UsartReceptionTest
         public const string STR_ACCELGYRO_EVT_COL_NAME = "accgyroevents";
         public const string STR_LAST_TEST_NUM_COL_NAME = "lasttestnums";
 
-        public const double TEST_DURATION = 1000.0; // 5 seconds
+        public const double TEST_DURATION = 1000.0; // 1 seconds
     }
 }
