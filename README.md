@@ -63,7 +63,7 @@
 - Database : LiteDB
 
 4.2.2 SerialReceptionDataViewer
-- Sensor data reception inverval viewr(WPF applicaion, Windows only)
+- Sensor data reception inverval viewer(WPF applicaion, Windows only)
 - Test reuslt data directory : SerialReceptionTest\SerialReceptionTest\data</br>
   linux_test_history.db : sensor data recptions history on Linux</br>
   win_test_history.db : sensor data recptions history on Windows 10
