@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiteDB" Version="5.0.10" />
+    <PackageReference Include="ScottPlot" Version="4.1.16" />
+    <PackageReference Include="ScottPlot.WPF" Version="4.1.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fl.Net\Fl.Net.csproj" />
+    <ProjectReference Include="..\Fw.Net\Fw.Net.csproj" />
+  </ItemGroup>
+
+</Project>

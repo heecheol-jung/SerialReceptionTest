@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/H7A3ZITxQ_MPU6050/.settings
+/H7A3ZITxQ_MPU6050/Debug
+/H7A3ZITxQ_MPU6050/*.launch
